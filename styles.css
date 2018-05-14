@@ -49,3 +49,13 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+
+/* CSS styles for HTML debugging - BRGIN*/
+*, *:before, *:after {
+  background: #000000 !important;
+  color: #ccff00 !important;
+  outline: solid #ff0000 0.05em !important;
+  visibility: visible;
+  opacity:1;
+}
+/* CSS styles for HTML debugging - END*/
