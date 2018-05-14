@@ -17,7 +17,7 @@ Clone the repository and open 'index.html' file in the browser
 
 ## Authors
 
-* [Arunkarrthick Sunderavelu Rameshchandran](https://www.linkedin.com/in/arunkarthick-sunderavelu-rameshchandran-3929a845)
+* [Arunkarthick Sunderavelu Rameshchandran](https://www.linkedin.com/in/arunkarthick-sunderavelu-rameshchandran-3929a845)
 
 ## License
 
